@@ -1,0 +1,25 @@
+/
+├─ app/
+│  ├─ blog/page.tsx
+│  ├─ bio/page.tsx
+│  ├─ contact/page.tsx
+│  ├─ real-estate/page.tsx
+│  ├─ services/page.tsx
+│  ├─ globals.css
+│  ├─ layout.tsx
+│  └─ page.tsx
+├─ components/
+│  ├─ booking-modal.tsx
+│  ├─ footer.tsx
+│  ├─ navbar.tsx
+│  ├─ page-hero.tsx
+│  ├─ section-heading.tsx
+│  └─ site-shell.tsx
+├─ data/
+│  └─ site.ts
+├─ lib/
+│  └─ utils.ts
+├─ next.config.mjs
+├─ package.json
+├─ tsconfig.json
+└─ .gitignore
